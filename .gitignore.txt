@@ -1,0 +1,5 @@
+*.pgw
+*.png
+*.pdf
+*.osm
+*.tif
